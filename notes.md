@@ -1,4 +1,4 @@
-using micrograd from andrej karpathy make a backprop visulazation engine from scratch written and designed by hand
+using micrograd from andrej karpathy make a backprop visulazation engine from scratch written and designed by hand for study purpose
 
 features:  
             1. crate and neural network graph
